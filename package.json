@@ -1,0 +1,26 @@
+{
+    "name": "mootools-server",
+    "version": "1.6.0",
+    "description": "MooTools 1.6.0 Server library",
+    "keywords": ["mootools", "class"],
+    "homepage": "http://github.com/chozilla/mootools-server",
+    "main": "./mootools.js",
+    "author":
+    {
+        "name": "The MooTools team",
+        "url": "http://mootools.net/developers/"
+    },
+    "contributors": [
+        "chozilla chozilla@darkaura.de"
+    ],
+    "repository":
+    {
+        "type": "git",
+        "url": "http://github.com/chozilla/mootools-server.git"
+    },
+    "engines":
+    {
+        "node" : ">=9.4.0"
+    }
+}
+
