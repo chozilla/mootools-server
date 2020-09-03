@@ -11,9 +11,6 @@ Mootools Server is a stripped down version of Mootools __Core__ and __More__ tha
 * Function
 * Number
 * String
-* Class
-* Class.Extras
-* Class.Thenable
 * Object
 ### Mootools More 1.6.0
 * More
